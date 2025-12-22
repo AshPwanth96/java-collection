@@ -38,7 +38,6 @@ public class AccountBalance {
 			}
 			
 			long accountId = t.accountId;
-			String type = t.type;
 			int amount = t.amount;
 		
 			
